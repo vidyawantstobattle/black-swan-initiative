@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85f3253e.css",
+    "main.js": "/static/js/main.b5965ce7.js",
+    "static/media/impactOS1.png": "/static/media/impactOS1.b181f81d894c6ac080ad.png",
+    "index.html": "/index.html",
+    "main.85f3253e.css.map": "/static/css/main.85f3253e.css.map",
+    "main.b5965ce7.js.map": "/static/js/main.b5965ce7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f3253e.css",
+    "static/js/main.b5965ce7.js"
+  ]
+}
